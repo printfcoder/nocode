@@ -1,1 +1,1 @@
-All changes are welcome as long as no code is involved. If you run into any bugs, please file an issue and explain how that was even possible.
+不欢迎任务代码贡献，不解决任何bug，因为不会有任何bug。不欢迎提问题，这里怎么可能会有问题？
