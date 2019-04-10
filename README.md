@@ -51,3 +51,8 @@
 ## 贡献
 
 想都别想
+
+## 来点咖啡吧
+
+<img src="./pay-me/wxpay.jpeg" />
+<img src="./pay-me/alipay.jpeg" />
