@@ -54,5 +54,7 @@
 
 ## 来点咖啡吧
 
-<img src="./pay-me/wxpay.jpeg" />
-<img src="./pay-me/alipay.jpeg" />
+<p id="pay">
+<img src="./pay-me/wxpay.jpeg" style="max-width:20%" />
+<img src="./pay-me/alipay.jpeg" style="max-width:20%" />
+</p>
