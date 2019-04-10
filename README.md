@@ -55,6 +55,6 @@
 ## 来点咖啡吧
 
 <p id="pay">
-![](./pay-me/wxpay.jpeg | width=20)
-![](./pay-me/alipay.jpeg | width=20)
+<img src="./pay-me/wxpay.jpeg" width="20%"/>
+<img src="./pay-me/alipay.jpeg" width="20%" />
 </p>
